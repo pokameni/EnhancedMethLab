@@ -11,6 +11,7 @@
 ### 👨🏻‍💻 How to install and configure ?
 - Download as ZIP this or check last release.
 - Extract it on your servers addon file.
+- Rename the resource to `enhancedmethlab`. The name **should NOT be capitalized**. It will break some lua logic that garrysmod don't like for no reasons.
 - Translate it, edit variables, and play.
 
 ### 📹 Previews
